@@ -1,4 +1,4 @@
-# Text Fragments
+ Text Fragments
 
 [Draft Spec](https://wicg.github.io/scroll-to-text-fragment/)  
 [Web Platform Tests](https://wpt.fyi/results/scroll-to-text-fragment?label=experimental&label=master&aligned)  
